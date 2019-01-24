@@ -1,4 +1,3 @@
-//Initializing branch
 /* 
 
 Prototype Refactor
